@@ -1,0 +1,30 @@
+# WordPress files to ignore
+wp-config.php
+wp-config-sample.php
+
+# Uploads and media
+uploads/
+
+# Cache
+*.cache
+.sass-cache/
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+error_log
+
+# Temp files
+*.tmp
+*.bak
